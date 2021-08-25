@@ -1,0 +1,45 @@
+p, h1, h2, h3, h4, strong {
+    color: #000;
+}
+#nav {
+    background: rgba(0, 0, 0, .6);
+    position: fixed;
+}
+#nav ul li {
+    font-weight: bold;
+}
+#nav ul li:hover {
+    border: 1px #fff solid;
+}
+.sub-menu {
+    background: #fff;
+    color: #000;
+}
+.sub-menu li{
+    font-weight: bold;
+}
+.negrito {
+    font-weight: bold;
+}
+.whatsapp {
+    position: fixed;
+    top: 82%;
+    left: 1%;
+    padding: 10px;
+    z-index: 10000000;
+}
+.marcas {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 40px;
+}
+.cursor{
+    cursor: unset;
+}
+p {
+    /* text-indent: 30px; */
+    text-align: justify;
+}
+.tamanho {
+    height: 200px;
+}
