@@ -16,7 +16,7 @@ Sobre o projeto:
 
 http://glasrefrigeracao.com.br/
 
-- Se o site por algum motivo for modificado por outro desenvolvedor ou sair do ar, segue na listagem dos arquivos desse repositório a imagem da index do site original, listagem de serviços, exibição de um dos serviços e a página de contato.
+- Se o site por algum motivo for modificado por outro desenvolvedor ou sair do ar, segue na listagem dos arquivos desse repositório algumas imagens do projeto original.
 
 # Vídeo demonstrativo do projeto:
 
